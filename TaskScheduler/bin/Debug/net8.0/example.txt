@@ -1,0 +1,6 @@
+jogging`run,swim,jump!`10/7/2025 3:30:00 PM`True`True`True
+fly`future`12/20/2077 10:45:00 AM`False`True`True
+read`new book!`1/1/0001 12:00:00 AM`False`False`True
+running``11/10/2025 12:00:00 PM`False`True`False
+lecture``11/20/2025 12:00:00 PM`False`True`False
+cleaning``10/5/2025 8:40:00 PM`True`True`False

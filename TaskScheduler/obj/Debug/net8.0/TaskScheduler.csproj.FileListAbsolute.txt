@@ -1,0 +1,14 @@
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\bin\Debug\net8.0\TaskScheduler.exe
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\bin\Debug\net8.0\TaskScheduler.deps.json
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\bin\Debug\net8.0\TaskScheduler.runtimeconfig.json
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\bin\Debug\net8.0\TaskScheduler.dll
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\bin\Debug\net8.0\TaskScheduler.pdb
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\obj\Debug\net8.0\TaskScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\obj\Debug\net8.0\TaskScheduler.AssemblyInfoInputs.cache
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\obj\Debug\net8.0\TaskScheduler.AssemblyInfo.cs
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\obj\Debug\net8.0\TaskScheduler.csproj.CoreCompileInputs.cache
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\obj\Debug\net8.0\TaskScheduler.dll
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\obj\Debug\net8.0\refint\TaskScheduler.dll
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\obj\Debug\net8.0\TaskScheduler.pdb
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\obj\Debug\net8.0\TaskScheduler.genruntimeconfig.cache
+D:\Documents\CSE 310\Sprint 1\c#project\TaskScheduler\obj\Debug\net8.0\ref\TaskScheduler.dll
